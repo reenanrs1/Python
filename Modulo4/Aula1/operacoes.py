@@ -9,6 +9,3 @@ def multiplicação (a,b):
 
 def divisão (a,b):
     return a / b
-
-def aleatorio(a,b):
-    return random.randint(a,b)
