@@ -1,2 +1,6 @@
 live-python-dezembro-2024-main.zip
 .venv
+eventos.csv
+inscricoes.csv
+exemplo.txt
+__pycache__
